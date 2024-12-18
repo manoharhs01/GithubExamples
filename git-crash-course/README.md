@@ -41,7 +41,7 @@ cd GithubExamples
 
 ## Merging
 
-## Manohar H S
+## Manohar H S S
 
 
 
